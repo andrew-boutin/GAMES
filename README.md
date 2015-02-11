@@ -1,7 +1,7 @@
 Labyrinth-Crawl
 ===============
 
-This game is a terminal based game written in C++.
+This game is a terminal based game written in C++.  It was created in 2012.
 
 There are 10 levels.
 
