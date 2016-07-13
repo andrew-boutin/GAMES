@@ -23,3 +23,10 @@ When you complete a level your health is refilled.
 There is basic intro text, ability to replay on death or winning.
 
 Levels get revealed as player moves around.
+
+---
+
+###### Author
+
+Andy Boutin
+www.andrewboutin.com
