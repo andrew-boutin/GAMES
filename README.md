@@ -1,8 +1,10 @@
 # Labyrinth Crawl
 
-This is a terminal game written in C++.
+Escape the labyrinth!
 
-This is a strategy game where you try to escape to labyrinth while fighting enemies along the way. The mazes are randomly generated so each time you play is different. Let me know if you beat all 10 levels!
+This is a terminal maze strategy game written in C++. The mazes are randomly generated. Let me know if you beat all 10 levels!
+
+![Labyrinth Crawl Gif](media/lab.gif)
 
 ---
 
